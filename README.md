@@ -17,4 +17,5 @@ A repository dedicated to tracking my problem-solving journey, algorithms, and d
 | 2026-07-02 | Array | [Equilibrium Point](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | GFG | Easy | [.py](./gfg-submission/dsa/equilibrium-point/solution.py) [.py](./gfg-submission/dsa/equilibrium-point/solution1.py) |
 | 2026-07-02 | Array | [Equal Sum with Insertion](https://www.geeksforgeeks.org/problems/equal-sums4801/1) | GFG | Easy | [.py](./gfg-submission/dsa/equal-sums/solution.py) |
 | 2026-07-02 | Array | [Maximum prefix sum for a given range](https://www.geeksforgeeks.org/problems/maximum-prefix-sum-for-a-given-range0227/1) | GFG | Easy | [.py](./gfg-submission/dsa/maximum-prefix-sum-for-a-given-range/solution.py) |
+| 2026-07-08 | String |  | LeetCode | Med | [.py]() |
 
