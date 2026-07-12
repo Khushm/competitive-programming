@@ -3,7 +3,7 @@
 A repository dedicated to tracking my problem-solving journey, algorithms, and data structures.
 ## Problem Log
 
-| Date | Topic | Problem Name | Platform | Difficulty | Solution |
+| Date (YYYY-MM-DD) | Topic | Problem Name | Platform | Difficulty | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2026-07-01 | Graphs | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/find-the-safest-path-in-a-grid/solution.py) |
 | 2026-07-01 | Graphs | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | LeetCode | Hard | [.py](./leetcode-submission/dsa-problems/swim-in-rising-water/solution.py) |
