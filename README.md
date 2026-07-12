@@ -18,4 +18,5 @@ A repository dedicated to tracking my problem-solving journey, algorithms, and d
 | 2026-07-02 | Array | [Equal Sum with Insertion](https://www.geeksforgeeks.org/problems/equal-sums4801/1) | GFG | Easy | [.py](./gfg-submission/dsa/equal-sums/solution.py) |
 | 2026-07-02 | Array | [Maximum prefix sum for a given range](https://www.geeksforgeeks.org/problems/maximum-prefix-sum-for-a-given-range0227/1) | GFG | Easy | [.py](./gfg-submission/dsa/maximum-prefix-sum-for-a-given-range/solution.py) |
 | 2026-07-10 | Math | [Ways to Express as Sum of Consecutives](https://www.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1) | GFG | Med | [.py](./gfg-submission/dsa/count-of-sum-of-consecutives/solution.py) |
+| 2026-07-12 | Arrays | [Max Amount by Selling K Tickets](https://www.geeksforgeeks.org/problems/ticket-sellers3241/1) | GFG | Med | [.py](./gfg-submission/dsa/ticket-sellers/solution.py) |
 
