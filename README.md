@@ -20,3 +20,6 @@ A repository dedicated to tracking my problem-solving journey, algorithms, and d
 | 2026-07-10 | Math | [Ways to Express as Sum of Consecutives](https://www.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1) | GFG | Med | [.py](./gfg-submission/dsa/count-of-sum-of-consecutives/solution.py) |
 | 2026-07-12 | Arrays | [Max Amount by Selling K Tickets](https://www.geeksforgeeks.org/problems/ticket-sellers3241/1) | GFG | Med | [.py](./gfg-submission/dsa/ticket-sellers/solution.py) |
 | 2026-07-12 | Arrays | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/) | LeetCode | Easy | [.py](./leetcode-submission/dsa-problems/rank-transform-of-an-array/solution.py) |
+| 2026-07-13 | Graph | [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GFG | Easy | [.py](./gfg-submission/dsa/depth-first-traversal-for-a-graph/solution.py) |
+| 2026-07-13 | Graph | [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GFG | Easy | [.py](./gfg-submission/dsa/bfs-traversal-for-a-graph/solution.py) |
+| 2026-07-13 | Graph | [Graph Adjacency List Traversal](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GFG | Easy | [.py](./gfg-submission/dsa/print-adjacency-list/solution.py) |
