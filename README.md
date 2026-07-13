@@ -26,3 +26,5 @@ A repository dedicated to tracking my problem-solving journey, algorithms, and d
 | 2026-07-13 | Graph | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/number-of-provinces/solution.py) |
 | 2026-07-13 | Graph | [Number of Connected Components](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | GFG | Med | [.py](./gfg-submission/dsa/number-of-provinces/solution.py) |
 | 2026-07-13 | 2Ptr | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/sequential-digits/solution.py) [.py](./leetcode-submission/dsa-problems/sequential-digits/solution1.py) |
+| 2026-07-14 | Graph | [Count Islands](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) | GFG | Med | [.py](./gfg-submission/dsa/find-the-number-of-islands/solution.py) |
+| 2026-07-14 | Graph | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/number-of-islands/solution.py) |
