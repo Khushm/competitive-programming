@@ -25,3 +25,4 @@ A repository dedicated to tracking my problem-solving journey, algorithms, and d
 | 2026-07-13 | Graph | [Graph Adjacency List Traversal](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GFG | Easy | [.py](./gfg-submission/dsa/print-adjacency-list/solution.py) |
 | 2026-07-13 | Graph | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/number-of-provinces/solution.py) |
 | 2026-07-13 | Graph | [Number of Connected Components](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | GFG | Med | [.py](./gfg-submission/dsa/number-of-provinces/solution.py) |
+| 2026-07-13 | 2Ptr | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/sequential-digits/solution.py) [.py](./leetcode-submission/dsa-problems/sequential-digits/solution1.py) |
