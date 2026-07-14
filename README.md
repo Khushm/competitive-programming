@@ -29,4 +29,5 @@ A repository dedicated to tracking my problem-solving journey, algorithms, and d
 | 2026-07-14 | Graph | [Count Islands](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) | GFG | Med | [.py](./gfg-submission/dsa/find-the-number-of-islands/solution.py) |
 | 2026-07-14 | Graph | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | LeetCode | Med | [.py](./leetcode-submission/dsa-problems/number-of-islands/solution.py) |
 | 2026-07-14 | Graph | [Smallest Non-Zero Number](https://www.geeksforgeeks.org/problems/find-smallest-non-zero-number4510/1) | GFG | Med | [.py](./gfg-submission/dsa/find-smallest-non-zero-number/solution.py) |
-
+| 2026-07-15 | Math | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | LeetCode | Easy | [.py](./leetcode-submission/dsa-problems/find-greatest-common-divisor-of-array/solution.py) |
+| 2026-07-15 | DP | [3336. Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/) | LeetCode | Hard | [.py](./leetcode-submission/dsa-problems/find-the-number-of-subsequences-with-equal-gcd/solution.py) |
